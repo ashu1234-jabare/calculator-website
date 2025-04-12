@@ -1,10 +1,17 @@
 # calculator-website
+Simple Calculator Website 🧮
+This is a basic calculator web app built using HTML, CSS, and a bit of JavaScript. The calculator performs basic arithmetic operations like addition, subtraction, multiplication, and division. It's fully responsive and styled with modern CSS.
 
-Sure! Here's a simple and clean website made with HTML, CSS, and JavaScript, along with a description of what each part does. This website displays a homepage with a greeting, an about section, and a button that shows an alert when clicked.
+💡 Features:
+Clean UI with responsive layout
 
-🌐 Description:
-HTML: Sets up the structure of the webpage.
+Basic operations: +, -, ×, ÷
 
-CSS: Styles the layout, fonts, and colors.
+Real-time display update
 
-JavaScript: Adds interactivity (the button shows an alert).
+🚀 How to Use:
+Clone the repo or download the files.
+
+Open index.html in your browser.
+
+Start calculating!
